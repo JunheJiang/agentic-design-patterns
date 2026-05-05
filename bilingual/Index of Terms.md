@@ -1,6 +1,6 @@
 # Glossary
 
-# 术语表
+# 术语索引
 
 ## Fundamental Concepts
 
